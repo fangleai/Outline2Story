@@ -17,3 +17,8 @@ This repository contains source code for paper [Outline to Story: Fine-grained C
 3. generation, evaluation and analysis (generate.py, eval_ppl.py, generate_event_analysis.py).
 
 Contact: lefang@buffalo.edu
+
+
+Update on 2022:
+If you encounter package version issue, sorry for that I don't have a requirements.txt with exact versions. I used this package: https://github.com/nvidia/apex and an old pytorch version compatible with it at that time, say pytorch=0.4 (not 100% sure).
+
